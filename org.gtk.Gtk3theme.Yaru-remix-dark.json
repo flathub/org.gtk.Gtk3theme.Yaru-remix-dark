@@ -19,8 +19,8 @@
          "sources":[
             {
                "type":"archive",
-               "url":"https://github.com/Muqtxdir/yaru-remix/releases/download/v20.04.1/Yaru-remix-dark-gtk.zip",
-               "sha256":"d9ce40be446f550d32b7aed609178ff9726cfa882cf48c544a0c9917dfa87a69"
+               "url":"https://github.com/Muqtxdir/yaru-remix/releases/download/v20.10/Yaru-remix-dark-gtk.zip",
+               "sha256":"7fca4e70356a647c67d84836bd74bc72d3a9b62c7ab8bdafe97d966398e3c3d5"
             }
          ]
       },
