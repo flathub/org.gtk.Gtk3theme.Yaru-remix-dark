@@ -19,7 +19,7 @@
         {
           "type": "archive",
           "url": "https://github.com/sass/sassc/archive/3.5.0.tar.gz",
-          "sha256": "abab99028acfc43f0a26df66e0edd48246c7356d"
+          "sha256": "26f54e31924b83dd706bc77df5f8f5553a84d51365f0e3c566df8de027918042"
         },
         {
           "type": "script",
@@ -58,7 +58,7 @@
         {
           "type": "git",
           "url": "https://github.com/Muqtxdir/yaru-remix.git",
-          "commit": "2b65b533ef62b6a67132ddf792641f4407588074"
+          "commit": "abab99028acfc43f0a26df66e0edd48246c7356d"
         },
         {
           "type": "shell",
